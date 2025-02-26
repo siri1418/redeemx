@@ -48,9 +48,8 @@ app = FastAPI()
 
 origins = [
     
-    "http://localhost:3000",
-    "http://3.95.158.243:3000",
-    "http://3.80.60.48:3000"
+    "http://34.229.45.181:3000",
+    
 ]
 
 #Middlewares
